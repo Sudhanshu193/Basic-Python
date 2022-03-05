@@ -6,4 +6,4 @@
 def fun(a):
     print(a)
 
-fun({"name": "Shaielsh", "age": 20})
+fun({"name": "Shailesh", "age": 20})
