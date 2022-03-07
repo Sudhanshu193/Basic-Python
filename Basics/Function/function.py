@@ -8,3 +8,4 @@ def fun(a):
 
 fun({"name": " Shailesh ", "age": 20})
 fun({"name": " Ritesh ", "age": 20})
+fun({"name": " Sudhanshu ", "age": 20})
