@@ -7,3 +7,4 @@ def fun(a):
     print(a)
 
 fun({"name": " Shailesh ", "age": 20})
+fun({"name": " Ritesh ", "age": 20})
