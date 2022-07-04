@@ -1,5 +1,13 @@
 string = "Sudhanshu tripathi"
-# print(string.upper())
-# print(string.lower())
-# print(string.title())
+
+#used for capital letter 
+print(string.upper())
+
+#used for small letter
+print(string.lower())
+
+#it show you in title form
+print(string.title())
+
+#used to swap capital to small letter via versa
 print(string.swapcase())
