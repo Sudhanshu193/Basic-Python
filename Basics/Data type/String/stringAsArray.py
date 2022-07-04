@@ -18,3 +18,6 @@ if "my" in a:
     print("yes it present")
 
 print("expensive" not in a)
+
+if "Expensive" not in a:
+    print("yes it is not their")
