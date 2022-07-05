@@ -10,5 +10,4 @@ print(A[:30])#here index till index 30 it works.
 print(A[17:])#here it goes to end
 
 #negative indexing
-print(A[-20:-2])# it start from last index as -1;
-
+print(A[-20:-2])# it start from last index
