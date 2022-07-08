@@ -1,5 +1,6 @@
 A ="we are going to slice the sentence"
 print (len(A))
+
 print(A[4:20]) #here we slice the sentence from index 4 to index 19
 # (index 20 does not include)
 
